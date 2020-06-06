@@ -18,7 +18,7 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 ***
 ## oriented text connector
 - oriented text connector has been implemented, i's working, but still need futher improvement.
-- left figure is the result for DETECT_MODE H, right figure for DETECT_MODE O
+
 <img src="/data/res/007.jpg" width=320 height=240 /><img src="/data/res_oriented/007.jpg" width=320 height=240 />
 <img src="/data/res/008.jpg" width=320 height=480 /><img src="/data/res_oriented/008.jpg" width=320 height=480 />
 ***

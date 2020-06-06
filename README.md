@@ -10,9 +10,13 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 - I'll reonstruct this repo with serving using **TF_Serving** for **Quantization and Pruning**.
 ***
 
-## Inforgraphics to show case working of NVIDIA-GPU 
-<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=480 />
-Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)
+## Architecure of CTPN model, NVIDIA-GPU 
+
+|CTPN Model Architecture |NVIDIA-GPU Architecture|
+|:--:|:--:|
+| |<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=200 />
+Please refer to 
+[NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|
 
 
 

@@ -16,7 +16,7 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 |:--:|:--:|
 | |<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=200 />|
 |Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|
-|Comment: |Comment - check CUDA version using ```nvcc --version```. cuDNN version using ```cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2```. tensorflow-gpu version using ```pip freeze | grep tensorflow-gpu```|
+| |check CUDA version using ```nvcc --version```. cuDNN version using ```cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2```. tensorflow-gpu version using ```pip freeze | grep tensorflow-gpu```|
 
 
 

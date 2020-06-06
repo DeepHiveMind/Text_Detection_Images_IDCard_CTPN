@@ -8,9 +8,12 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 - Model is saved in **hdf5** (not so optimized model servable / model serialization format). I'll re-factor the code with TF2.0, and save the model as **protobuff (.pb)** model serialization format.
 - It's trained on **GTX1070 GPU**. I'm planning to retrain this on **TPU**.
 - I'll reonstruct this repo with serving using **TF_Serving** for **Quantization and Pruning**.
-
-<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=480 />
 ***
+
+## Inforgraphics to show case working of NVIDIA-GPU 
+<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=480 />
+Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)
+
 
 
 # some results

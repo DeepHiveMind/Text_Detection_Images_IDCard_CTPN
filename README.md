@@ -16,7 +16,7 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 |:--:|:--:|
 |<img src="/data/CTPNArchitecture.png" width=600 height=200 /> |<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=300 height=200 />|
 |Please refer to [CTPN Architecture explaine](https://www.researchgate.net/figure/Architecture-of-the-Connectionist-Text-Proposal-Network-CTPN-We-densely-slide-a_fig4_308277110)|Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|
-| VGGNet -> BLSTM of 256D ->FC of 512D ->output layer MLP for text/non-text scores|check CUDA version using ```nvcc --version```. cuDNN version using ```cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2```. tensorflow-gpu version using ``` pip freeze | grep tensorflow-gpu```|
+| VGGNet -> BLSTM of 256D ->FC of 512D ->output layer MLP for text/non-text scores|check CUDA version using ```nvcc --version```. cuDNN version using ```cat /usr/include/cudnn.h -pipeto- grep CUDNN_MAJOR -A 2```. tensorflow-gpu version using ``` pip freeze -pipeto- grep tensorflow-gpu``` |
 
 
 

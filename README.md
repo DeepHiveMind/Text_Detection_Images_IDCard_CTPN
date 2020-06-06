@@ -1,4 +1,4 @@
-# text-detection-ctpn
+# Text detection from Natural Images using CTPN
 
 Scene text detection based on ctpn (connectionist text proposal network). It is implemented in tensorflow. The origin paper can be found [here](https://arxiv.org/abs/1609.03605). 
 
@@ -14,9 +14,8 @@ Scene text detection based on ctpn (connectionist text proposal network). It is 
 
 |CTPN Model Architecture |NVIDIA-GPU Architecture|
 |:--:|:--:|
-| |<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=200 />
-Please refer to 
-[NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|
+| |<img src="https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png" width=400 height=200 />|
+|Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|Please refer to [NVIDIA-GPU](https://github.com/NVIDIA/nvidia-docker)|
 
 
 

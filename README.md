@@ -52,13 +52,11 @@ DenseNet-OCR ：DenseNet + CTC
 
 ```
 
+- Result Comparision
 
-
-- Comparative view 
-| Model Architecture  | run time on GPU | Accuracy | 
-Model Servable/ Binary size |
+| Model Architecture  | run time on GPU | Accuracy | Model Servable size |
 | ---------- | -----------| ---------- | -----------|
-| CRNN | 60ms | 0.972 | oops! missed it. |
+| CRNN | 60ms | 0.972 | oops missed it. |
 | DenseNet-OCR | 8ms | 0.982 | 18.9MB |
 
 

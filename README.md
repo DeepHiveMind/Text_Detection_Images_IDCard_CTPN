@@ -1,7 +1,7 @@
 # Text detection from Natural Images using CTPN
 
-This repo offers varied solution to **Scene text detection**
- -  based on CTPN (connectionist text proposal network). It is implemented in tensorflow. The origin paper can be found [here](https://arxiv.org/abs/1609.03605). 
+This repo offers varied solution to **Scene text detection** based on
+ -  CTPN (connectionist text proposal network). It is implemented in tensorflow. The origin paper can be found [here](https://arxiv.org/abs/1609.03605). 
  
  - & also ,alternative older approaches, such as 
  

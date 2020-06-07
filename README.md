@@ -32,13 +32,14 @@ This repo offers varied solution to **Scene text detection** based on
 * CRNN 
 
 CTPN Model is the latest as of date. & that's the way to go about. As 
-	- CTPN is latest & the most effective for  Scene text detection.
-	- Even though most data sets are based on English, CTPN perform well in Chinese positioning as well.
+
+- CTPN is latest & the most effective for  Scene text detection.
+- Even though most data sets are based on English, CTPN perform well in Chinese positioning as well.
 
 #### Codeset for these approaches
-	- [CTPN Model for Scene Text Detection]()
-	- [DenseNet-OCR Model for Scene Text Detection]()
-	- [CRNN Model for Scene Text Detection]()
+- [CTPN Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/ctpn)
+- [DenseNet-OCR Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/densent_ocr)
+- [CRNN Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/CRNN)
 
 
 ### 2 older AI approaches

@@ -72,5 +72,9 @@ DenseNet-OCR ：DenseNet + CTC
 <img src="/data/res/008.jpg" width=320 height=480 /><img src="/data/res_oriented/008.jpg" width=320 height=480 />
 ***
 
-#### Interactive Live Demo of 'Scene Text Detection'
+## Additional source
+Interactive Live Demo of 'Scene Text Detection'
 [Interactive demo reference](https://pan.baidu.com/share/init?surl=oEWTrx20G41iNaJYF-xa6w)
+
+End to End Chinese OCR by CTPN Model
+[End to End Chinese OCR](https://github.com/DeepHiveMind/chinese_ocr)  - a forked repo

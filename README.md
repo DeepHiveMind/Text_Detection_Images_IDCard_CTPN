@@ -13,7 +13,7 @@ This repo offers varied solution to **Scene text detection** based on
 **Please Note**:I have to reonstruct this repo. The repo is written based on older dependencies**, such as 
 - tensorflow-gpu==1.4.0 (to be upgraded to latest stable version - **tensorflow-gpu==1.12. 0** and **cuda==9.0** , the compatible **cuDNN version==7.1. 4**). 
 - Model is saved in **hdf5** (not so optimized model servable / model serialization format). I'll re-factor the code with TF2.0, and save the model as **protobuff (.pb)** model serialization format.
-- It's trained on **GTX1070 GPU**. I'm planning to retrain this on **TPU**.
+- It's trained on **GTX1070 GPU**. I'm planning to retrain this on **TPU**. IT IS VERY WELL POSSIBLE TO run the program on CPU only, but it's extremely slow due to the non-optimal CPU implementation.
 - I'll reonstruct this repo with serving using **TF_Serving** for **Quantization and Pruning**.
 ***
 
